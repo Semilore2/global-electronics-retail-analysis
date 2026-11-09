@@ -42,10 +42,20 @@ that can support informed business decisions.
 - Store Insights
 
 #Dashboard Preview
+
+- Executive Dashboard
 ![Executive Dashboard](Screenshots/Executive%20Dashboard.png)
+
+- Geographical Information
 ![Geographical Information](Screenshots/Geographical%20Information.png)
+
+- Product Details
 ![Product Details](Screenshots/Product%20Details.png)
+
+- Customer Details
 ![Customer Details](Screenshots/Customer%20Details.png)
+
+- Store Insights
 ![Store Insights](Screenshots/Store%20Insights.png)
 
 # Key Findings

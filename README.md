@@ -20,7 +20,7 @@ that can support informed business decisions.
 - Compare online and in-store sales performance.
 - Analyse customer purchasing patterns and identify valuable customer groups.
 - Present key findings and recommendations in a clear and interactive dashboard.
--  
+
 # Tools Used
 - Microsoft Excel: Used for data inspection, cleaning, preparation, and exploratory analysis using formulas and pivot tables.
 - Microsoft Power BI: Used for data modelling, DAX calculations using Power Query, visualizations, interactive dashboard, and presentation of findings.
@@ -39,6 +39,14 @@ that can support informed business decisions.
 - Geographical Information
 - Product Details
 - Customer Details
+- Store Insights
+
+#Dashboard Preview
+![Executive Dashboard](Screenshots/Executive%20Dashboard.png)
+![Geographical Information](Screenshots/Geographical%20Information.png)
+![Product Details](Screenshots/Product%20Details.png)
+![Customer Details](Screenshots/Customer%20Details.png)
+![Store Insights](Screenshots/Store%20Insights.png)
 
 # Key Findings
 - The analysis of the Global Electronics Retailer dataset showed several important insights into the company's sales performance, product contribution, geographical distribution, and revenue trends.

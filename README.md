@@ -41,7 +41,7 @@ that can support informed business decisions.
 - Customer Details
 - Store Insights
 
-#Dashboard Preview
+# Dashboard Preview
 
 - Executive Dashboard
 ![Executive Dashboard](Screenshots/Executive%20Dashboard.png)

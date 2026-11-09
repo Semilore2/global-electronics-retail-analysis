@@ -41,18 +41,18 @@ that can support informed business decisions.
 - Customer Details
 
 # Key Findings
-- Computers were the highest-revenue-generating product category. The category generated approximately $19.30 million in revenue, followed by Home Appliances at approximately $10.80 million.
-- The United States recorded the highest revenue among store countries. US stores generated approximately $23.76 million in revenue and $13.92 million in profit. The Online store grouping also contributed significantly, generating approximately $11.40 million in revenue.
-- Revenue peaked in 2019 before declining in 2020. Annual revenue increased from approximately $12.79 million in 2018 to $18.26 million in 2019, before falling to approximately $9.29 million in 2020. This decline warrants further investigation. The 2021 data covers only part of the year and should not be compared directly with complete years.
-- Adventure Works and Contoso were the leading brands by revenue. Adventure Works generated approximately $11.85 million, while Contoso generated approximately $10.79 million.
-- December 2019 recorded the highest monthly revenue. Revenue for the month reached approximately $2.48 million, suggesting a potential seasonal sales pattern that could be investigated further.
-- The business generated approximately $55.76 million in total revenue and $32.66 million in profit. Based on the product unit prices and costs, the overall profit margin was approximately 58.58%. These results provide a baseline for evaluating the retailer's financial performance.
+- The analysis of the Global Electronics Retailer dataset showed several important insights into the company's sales performance, product contribution, geographical distribution, and revenue trends.
+- The analysis showed fluctuations in the company's annual revenue over the period covered by the dataset. Revenue increased from $12.79 million in 2018 to $18.26 million in 2019, representing a significant improvement in sales performance. However, revenue declined to $9.29 million in 2020.
+- December 2019 recorded the highest monthly revenue, generating approximately $2.48 million. This suggests that the company experienced a particularly strong sales period towards the end of 2019.
+- Computers emerged as the highest revenue-generating product category, contributing approximately $19.30 million in revenue. This shows that computers represent an important part of the company's product portfolio and contribute significantly to its overall sales performance.
+- Games and Toys were the lowest revenue-generating products, contributing approximately $724 thousand in revenue.
+- The United States recorded the highest geographical revenue contribution, with stores in the country generating approximately $29.87 million. This suggests the US market represents a significant source of revenue for the retailer. Understanding the factors behind this performance could help the company identify strategies that may be applicable to other geographical markets.
+- The decline in revenue from $18.26 million in 2019 to $9.29 million in 2020 coinciding with the COVID-19 pandemic, when restrictions and temporary store closures affected retail operations in many markets. These circumstances contributed to the company's reduced revenue, particularly by affecting physical store operations and customer purchasing behaviour.
+
 
 # Recommendation
 - Strengthen the performance of high-revenue product categories. Maintain appropriate inventory levels for Computers and Home Appliances, evaluate pricing strategies, and identify opportunities to increase sales while protecting profit margins.
-- Investigate the decline in revenue during 2020. Analyse monthly sales trends, product performance, order volumes, and store results to identify the factors that contributed to the decline and determine suitable corrective actions.
-- Evaluate the strategies behind leading brands. Examine the product mix, pricing, and profitability of Adventure Works and Contoso to identify practices that could be applied to other brands with lower performance.
+- The company should regularly compare online and in-store sales performance in terms of revenue and profit. If online sales demonstrate stronger performance during periods when physical stores experience reduced activity, the company should consider strengthening its online sales operations. This may include improving the online shopping experience, digital marketing activities and order fulfilment processes.
 - Improve geographic and sales-channel analysis. Assess physical-store performance by country separately from online sales. Use these comparisons to identify underperforming markets and opportunities to improve online sales.
 - Use historical sales patterns to improve planning. Compare December sales across multiple years to establish whether the observed peak reflects recurring seasonal demand. If confirmed, use the findings to guide inventory planning and promotional campaigns.
 - Monitor profitability alongside revenue. Track revenue, total cost, profit, and profit margin by product, brand, and store. This will help the business distinguish high-sales products from products that contribute most effectively to profitability.
-- Improve delivery-data completeness. Investigate why delivery dates are missing from many sales records and improve data capture where possible. More complete delivery information would support more reliable delivery-time analysis and operational monitoring.
